@@ -1,4 +1,4 @@
-The Rainbow and Unicorn
+The Rainbow and Unicorn and horse
 
 Purple
 Pink
@@ -8,4 +8,5 @@ Green
 Unicorn
 Yellow
 Red
-This are the colors of the rainbow. And the unicorn
+This are the colors of the rainbow. And the unicorn. 
+and horse
